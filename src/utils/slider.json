@@ -1,0 +1,64 @@
+[
+    {
+      "name": "Product A",
+      "price": 19.99,
+      "detail": "This is a sample product with great features.",
+      "image": "./r1.png"
+    },
+    {
+      "name": "Item XYZ",
+      "price": 9.95,
+      "detail": "High-quality item for everyday use.",
+      "image": "./r2.png"
+    },
+    {
+      "name": "Gadget 123",
+      "price": 49.50,
+      "detail": "The latest gadget with advanced functionality.",
+      "image": "./r3.png"
+    },
+    {
+      "name": "Widget X",
+      "price": 12.75,
+      "detail": "A versatile widget for various applications.",
+      "image": "./r4.png"
+
+    },
+    {
+      "name": "Accessory ABC",
+      "price": 5.99,
+      "detail": "Enhance your experience with this accessory.",
+      "image": "./r5.png"
+    },
+    {
+      "name": "Premium Service",
+      "price": 99.00,
+      "detail": "Enjoy exclusive benefits with this premium service.",
+      "image": "./r6.png"
+    },
+    {
+      "name": "Book Title",
+      "price": 14.95,
+      "detail": "A captivating book that takes you on an adventure.",
+      "image": "./r7.png"
+    },
+    {
+      "name": "Game YZ",
+      "price": 29.99,
+      "detail": "Experience thrilling gameplay in this action-packed game.",
+      "image": "./r8.png"
+    },
+    {
+      "name": "Fashion Item",
+      "price": 24.50,
+      "detail": "Stay stylish with this trendy fashion item.",
+      "image": "./r9.png"
+    },
+    {
+      "name": "Service Package",
+      "price": 79.95,
+      "detail": "Get a comprehensive service package for your needs.",
+      "image": "./r10.png"
+    }
+  ]
+  
